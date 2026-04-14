@@ -5,11 +5,11 @@ import { Navigation } from "swiper/modules";
 import 'swiper/css';
 import 'swiper/css/navigation';
 import { IoIosArrowBack, IoIosArrowForward } from "react-icons/io";
-import Customer1 from "../../assets/Customer1.jpg";
-import Customer2 from "../../assets/Customer2.jpg";
-import Customer3 from "../../assets/Customer3.jpg";
-import Customer4 from "../../assets/Customer4.jpg";
-import Customer5 from "../../assets/Customer5.jpg";
+import Customer1 from "../../assets/customer1.jpg";
+import Customer2 from "../../assets/customer2.jpg";
+import Customer3 from "../../assets/customer3.jpg";
+import Customer4 from "../../assets/customer4.jpg";
+import Customer5 from "../../assets/customer5.jpg";
 import { FaStar } from "react-icons/fa";
 
 const Testimonial = () => {
