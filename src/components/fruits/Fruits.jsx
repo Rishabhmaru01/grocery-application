@@ -3,7 +3,7 @@ import Navbar from '../navabar/Navbar'
 import Banner from '../banner/Banner'
 import Footer from '../footer/Footer'
 import CategoryPage from '../categoryPage/CategoryPage'
-import BgFruits from '../../assets/Fruits-banner.jpg'
+import BgFruits from '../../assets/fruits-banner.jpg'
 
 const Fruits = () => {
   return (
